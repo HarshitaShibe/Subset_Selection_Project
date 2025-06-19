@@ -13,4 +13,4 @@ This project simulates selecting valid subsets from a larger set under constrain
 
 6) Cryptography & Research: Solving subset-sum & knapsack problems
 
-*Real-world parallels include Amazon's product bundles, Zomato's meal planning, and Google Ads keyword grouping.*
+*Real-world parallels include Amazon's product bundles, Zomato's meal planning and Google Ads keyword grouping.*
